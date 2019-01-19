@@ -207,11 +207,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 433380524}
   thrust: 1
-  turnThrust: 1
+  turnThrust: 10
   screenTop: 11
   screenBottom: -11
-  screenLeft: 0
-  screenRight: 0
+  screenLeft: -14
+  screenRight: 14
 --- !u!50 &433380524
 Rigidbody2D:
   serializedVersion: 4
