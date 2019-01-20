@@ -212,6 +212,8 @@ MonoBehaviour:
   screenBottom: -11
   screenLeft: -14
   screenRight: 14
+  bulletForce: 200
+  bullet: {fileID: 4757958983628388460, guid: bf6fae7e0c8cc304585b419e553257f7, type: 3}
 --- !u!50 &433380524
 Rigidbody2D:
   serializedVersion: 4
